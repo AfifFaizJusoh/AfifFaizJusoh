@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AfifFaizJusoh
+- 🌱 I’m currently learning Python, Javascript and Machine Learning
