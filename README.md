@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AfifFaizJusoh
-- 🌱 I’m currently learning Python, Javascript and Machine Learning
+- 🌱 I’m currently on my way to become a data scientist
