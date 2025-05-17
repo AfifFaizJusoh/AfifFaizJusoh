@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AfifFaizJusoh
-- 🌱 I’m currently on my way to become a data scientist
+- 🌱 Lead Data Scientist for Malaysia Airlines Group Strategy
